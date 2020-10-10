@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8">
+<schedule>
+	<day>Чт</day>
+	<subjects>
+		<first>
+			<time>08:20-09:50</time>
+			<week>all</week>
+			<room>466</room>
+			<address>Кронверкский пр., д.49, лит.А</address>
+			<lesson>МАТЕМАТИКА (БАЗОВЫЙ УРОВЕНЬ)(ЛЕК)</lesson>
+			<teacher>Возианова Анна</teacher>
+			<lesson-format>Очно - дистанционный</lesson-format>
+		</first>
+		<second>
+			<time>10:00-11:30</time>
+			<week>even</week>
+			<room>Актовый зал</room>
+			<address>Кронверкский пр., д.49, лит.А</address>
+			<lesson>ПРОГРАММИРОВАНИЕ(ЛЕК)</lesson>
+			<teacher>Письмак Алексей Евгеньевич</teacher>
+			<lesson-format>Очно - дистанционный</lesson-format>
+		</second>
+		<third>
+			<time>10:00-11:30</time>
+			<week>odd</week>
+			<room>Актовый зал</room>
+			<address>Кронверкский пр., д.49, лит.А</address>
+			<lesson>ИНФОРМАТИКА(ЛЕК)</lesson>
+			<teacher>Балакшин Павел Валерьевич</teacher>
+			<lesson-format>Очно - дистанционный</lesson-format>
+		</third>
+		<fourth>
+			<time>11:40-13:10</time>
+			<week>even</week>
+			<room>Актовый зал</room>
+			<address>Кронверкский пр., д.49, лит.А</address>
+			<lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</lesson>
+			<teacher>Клименков Сергей Викторович</teacher>
+			<lesson-format>Очно - дистанционный</lesson-format>
+		</fourth>
+	</subjects>
+</sheudle>
